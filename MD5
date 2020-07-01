@@ -1,0 +1,13 @@
+8cce46769d31facabad0e93a1624adf1 *DESCRIPTION
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+49a8e262d4cedcf2b5da330ad7f09ac0 *R/pisaL.R
+ad320db23d8a25a70310bce5a9f989eb *R/pisaRT-package.R
+541052c74879e12e177323251cca5355 *R/pisaW.R
+be0378dc6fd978992dc054e74355fae4 *README.md
+13c3b0fd99d39030a0b0d0f2ca68f6ed *data/pisaL.rda
+db13996cc51895f9932a05a6db21cff1 *data/pisaW.rda
+00d81ad63b3bfbe6d9f4c43d235d0b60 *man/pisaL.Rd
+a248ae4276f5204e3f2f3bc3cfb92aa3 *man/pisaRT.Rd
+92739a6e737f2a309a55755ca87d5b8a *man/pisaW.Rd
+86089e596a3327592a5b9a4e4499b218 *tests/testthat.R
+891bcb761e2b77400d8be42deae0ef17 *tests/testthat/test_pisa.R
