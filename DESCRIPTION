@@ -1,7 +1,7 @@
 Package: pisaRT
 Type: Package
 Title: Small Example Response and Response Time Data from PISA 2018
-Version: 2.0.1
+Version: 2.0.2
 Authors@R: c(
     person("Benjamin", "Becker", email = "b.becker@iqb.hu-berlin.de", role = c("aut", "cre")),
     person("Esther", "Ulitzsch", email = "ulitzsch@ipn.uni-kiel.de", role = c("ctb")),
@@ -11,13 +11,13 @@ Depends: R (>= 2.10)
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2020-12-07 11:22:41 UTC; benjb
+Packaged: 2023-08-23 15:16:59 UTC; beckerbz
 Author: Benjamin Becker [aut, cre],
   Esther Ulitzsch [ctb],
   Christoph Koenig [ctb]
 Maintainer: Benjamin Becker <b.becker@iqb.hu-berlin.de>
 Repository: CRAN
-Date/Publication: 2020-12-07 12:10:02 UTC
+Date/Publication: 2023-08-23 16:50:06 UTC
